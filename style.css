@@ -1,0 +1,45 @@
+.butn{
+    display: inline-block;
+    background-color: #007bff;
+    padding: 15px 25px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 25xp;
+}
+
+.butn:hover {
+    background-color: #966d22;
+}
+
+.buton{
+    display: inline-block;
+    background-color: #007bff;
+    padding: 15px 25px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 25xp;
+}
+
+.buton:hover {
+    background-color: #966d22;
+}
+
+body {
+    background-image: url(fondo-cielo-azul-estilo-pixel-art_475147-2665.avif) ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+
+.contenedor{
+    display: flex;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+p {
+    margin-left: 10px;
+    margin-right: 10px;
